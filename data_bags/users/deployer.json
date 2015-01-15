@@ -1,0 +1,9 @@
+{
+  "id": "deployer",
+  "password"  : "$1$gFSKGm3L$HqXa62ilkKPT/BjAzECqS0",
+  "ssh_keys"  : [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDezbJTwWVXc5Kzwxgdl5Xbq0J0quqpYaa0xEw16+YQ16Oqjmct7pjfs8o7Z74Vcov8V/wariqRbZKZmRgmP5cb/AbFz/SD0FFEN10dqVzAN74OUwwF6Gr+iSVya9HWVAc+kxFrdTMTA6t/9c+hq0HshMoxr0eEqQoPmOJGuvHgCC0JjVcRbYalu+EThRMlGCEfcfbtLkj+DQuVbnRQYsJWaD06eCqac++lalyPIjMxiLOFepX2MUQlpIitVETZ7RKyTzrrpC7tuO6CwkE1SIb6HxZFVoFgc1VRDSu+LwF6mhX/h1eB4yPIEiHQkLtbluJoEQ81uRElgYRCl82JHt6J YOUR@EMAIL.com"
+  ],
+  "groups"    : ["sudo" ,"sysadmin", "www-data", "rvm"],
+  "shell"     : "\/bin\/bash"
+}
